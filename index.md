@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+ <center>
+     <h1>徐运翔</h1>
+ </center>
 
-You can use the [editor on GitHub](https://github.com/Crow-of-the-night/myhtml-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 个人信息 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
+* 手 机：15521240173 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;邮 箱：315354859@qq.com
 
-### Markdown
+## 工作及教育经历
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 新丰云天海温泉原始森林度假村有限公司&emsp;&emsp;&emsp;&emsp;&emsp;2019.05~2019.09&emsp;&emsp;&emsp;&emsp;&emsp; 财务部-内部审计       
+* 韶关市起重机厂有限责任公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018.06~2018.11&emsp;&emsp;&emsp;&emsp;&emsp; 计划部-文员
+* 华南师范大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2014.09~2018.07&emsp;&emsp;&emsp;&emsp;&emsp; 旅游管理专业-本科         
 
-```markdown
-Syntax highlighted code block
+## 专业技能
 
-# Header 1
-## Header 2
-### Header 3
+* 掌握Java、HTML、CSS、JavaScript、JSP、ajax、jQuery，了解Python
+* 了解基础数据结构和算法的基本原理
+* 了解MySQL的原理和使用
+* 了解Spring+SpringMVC+MyBatis框架以及Spring Boot的相关开发技术
 
-- Bulleted
-- List
+## 获奖经历
+* 2015-9 丹霞山暑期三下乡社会实践 校级优秀调研报告
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Crow-of-the-night/myhtml-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 个人账号 
+* github 地址 https://github.com/Crow-of-the-night
